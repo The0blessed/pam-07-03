@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background: rgba(0, 0, 0, .6) url('https://i.gifer.com/76YS.gif') ;
+}
+
+input {
+  color: #fff;
+  font-size: 28px;
+  width: 90%;
+  padding: 20px 5px 50px;
+  background-color: #141548;
+  border: none;
+  border-radius: 4px;
+text-align: center;
+}
